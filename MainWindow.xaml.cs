@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace GridSplitter_Example
+namespace WPF_Layout_GridSplitter_Ex
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml
